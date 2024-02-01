@@ -58,13 +58,13 @@ export class EventosApiService {
   }
 
   private handleError(error: any): Observable<any> {
-    // Aqui você pode tratar o erro conforme necessário
+    // trata o erro conforme necessário
     console.error('Erro na requisição:', error);
 
     // Emite um sinal de erro para que os componentes possam reagir
     this.emitSignal('error-signal');
 
-    // Retorne um Observable vazio ou lança o erro novamente
+    // Retorna um Observable vazio ou lança o erro novamente
     return EMPTY;
   }
 }
