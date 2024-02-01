@@ -1,6 +1,6 @@
 ### Agenda Tech em Angular 17 com Signals 🚀 🔄 🌐
 
-Codificação em Typescript com uso do framework Angular 17 e Signals usando os principais operadores do RxJs como: Observable, Subscription, switchMap, map, BehaviorSubject, Observable, tap e share, EMPTY e catchError e armazenando dados no arquivo db.json.
+Codificação em Typescript com uso do framework Angular 17 e Signals usando os principais operadores do RxJs como: Observable, Subscription, switchMap, map, BehaviorSubject, Observable, tap e share, EMPTY e catchError. Em API com uso Json-Server armazenano com dados no arquivo db.json.
 
 ### Orientação a Objetos:
 
